@@ -1,0 +1,11 @@
+mlflow
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+matplotlib
+seaborn
+mlflow[extras]
+jupyter
+python-dotenv

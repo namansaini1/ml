@@ -1,0 +1,9 @@
+name: MLflow ML Project
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    command: "python src/model_training.py"
+  evaluate:
+    command: "python src/model_evaluation.py"

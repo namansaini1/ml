@@ -1,0 +1,4 @@
+# The model.pkl file is a binary file that contains the serialized version of the trained machine learning model. 
+# As such, it cannot be represented in plain text. 
+# You would typically generate this file by training a model and saving it using a library like joblib or pickle in your model_training.py script. 
+# Therefore, this file is intentionally left blank.
